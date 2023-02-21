@@ -30,6 +30,11 @@ Note that using this component may incur additional costs. Please see the pricin
 ![](https://www.redcrested.net/solutions/ossn/components/OneSignalNotifications/OneSignalNotifications-6.png)
 
 
+How to buy
+I am selling this component for US$39.00 through the Buy me a coffee website. To purchase, visit https://www.buymeacoffee.com/redcrested/e/117780 or click on the button 
+
+[![](https://redcrested.net/res/img/button.png)](https://www.buymeacoffee.com/redcrested/e/117780)
+
 ## Limitations
 
 The component was tested in free version of OSSN 6.4 and 6.6, in the GoBlue theme. Maybe some adjustments are required in older versions and/or other themes. 
