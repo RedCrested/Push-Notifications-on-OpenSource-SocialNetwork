@@ -41,6 +41,9 @@ The component was tested in free version of OSSN 6.4 and 6.6, in the GoBlue them
 
 ## Version
 
+- 1.2
+    - Added customized welcome message
+    - Improved the German translation file. Courtesy of [Dominik Lieger](https://www.opensource-socialnetwork.org/u/Crossi)
 - 1.1 
     - Fixed label Safari Web ID on admin form 
     - Changed commercial name "OneSignal Notifications for OpenSource SocialNetwork" to "Push Notifications on OpenSource SocialNetwork"
