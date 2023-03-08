@@ -20,9 +20,6 @@ Note that using this component may incur additional costs. Please see the pricin
 **Request on phone**<br>
 ![](https://www.redcrested.net/solutions/ossn/components/OneSignalNotifications/OneSignalNotifications-2.png)
 
-**Notification bell**<br>
-![](https://www.redcrested.net/solutions/ossn/components/OneSignalNotifications/OneSignalNotifications-4.png)
-
 **Notification on desktop**<br>
 ![](https://www.redcrested.net/solutions/ossn/components/OneSignalNotifications/OneSignalNotifications-5.png)
 
@@ -30,7 +27,7 @@ Note that using this component may incur additional costs. Please see the pricin
 ![](https://www.redcrested.net/solutions/ossn/components/OneSignalNotifications/OneSignalNotifications-6.png)
 
 
-How to buy
+## How to buy
 I am selling this component for US$39.00 through the Buy me a coffee website. To purchase, visit https://www.buymeacoffee.com/redcrested/e/117780 or click on the button 
 
 [![](https://redcrested.net/res/img/button.png)](https://www.buymeacoffee.com/redcrested/e/117780)
