@@ -38,6 +38,19 @@ The component was tested in free version of OSSN 6.4 and 6.6, in the GoBlue them
 
 ## Version
 
+- 1.6
+    - Fixed an issue with messages at likes in comments
+    - Notification messages are shown in the user language, if defined. Otherwise, it will be considered default site language.
+- 1.5
+    - Fixed an issue with messages at likes in comments
+- 1.4
+    - Fixed language issue with words with single quote
+    - Fixed a bug in notification messages when user has emojis in their name field
+- 1.3
+    - Fixed languages issues
+    - When clicking on the received message notification, the site opens directly in the conversation
+    - Added persistent notification parameter. This parameter  apply only to Chrome based browsers on non-mobile devices. Details about this configuration in https://documentation.onesignal.com/docs/web-push-options#notification-persistence
+    - Fixed an issue when this component is used on OSSN 6.1. Details in **Know Issues** section 
 - 1.2
     - Added customized welcome message
     - Improved the German translation file. Courtesy of [Dominik Lieger](https://www.opensource-socialnetwork.org/u/Crossi)
