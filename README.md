@@ -38,6 +38,9 @@ The component was tested in free version of OSSN 6.4 and 6.6, in the GoBlue them
 
 ## Version
 
+- 1.7
+  - When clicking on the notification on the device, the page opens directly on the item. At the same time, the related notification in the notification panel of the OSSN site is marked as read.
+  - At the messages page, the notification bell is hidden so that it does not overlap with the buttons on the bottom of the page.
 - 1.6
     - Fixed an issue with messages at likes in comments
     - Notification messages are shown in the user language, if defined. Otherwise, it will be considered default site language.
